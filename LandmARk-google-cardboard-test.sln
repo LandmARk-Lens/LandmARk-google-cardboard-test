@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandmARk-google-cardboard-test.CSharp", "LandmARk-google-cardboard-test.CSharp.csproj", "{AB7D3347-3079-C8D3-4942-F1C3E681F7F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandmARk-google-cardboard-test.CSharp.Editor", "LandmARk-google-cardboard-test.CSharp.Editor.csproj", "{1F75A233-7919-E27E-D3EF-7B243B59B926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7D3347-3079-C8D3-4942-F1C3E681F7F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7D3347-3079-C8D3-4942-F1C3E681F7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7D3347-3079-C8D3-4942-F1C3E681F7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7D3347-3079-C8D3-4942-F1C3E681F7F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F75A233-7919-E27E-D3EF-7B243B59B926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F75A233-7919-E27E-D3EF-7B243B59B926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F75A233-7919-E27E-D3EF-7B243B59B926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F75A233-7919-E27E-D3EF-7B243B59B926}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
